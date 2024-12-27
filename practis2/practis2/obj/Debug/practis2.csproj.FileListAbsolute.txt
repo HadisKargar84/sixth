@@ -1,0 +1,7 @@
+C:\Users\hadis2005\source\repos\practis2\practis2\bin\Debug\practis2.exe.config
+C:\Users\hadis2005\source\repos\practis2\practis2\bin\Debug\practis2.exe
+C:\Users\hadis2005\source\repos\practis2\practis2\bin\Debug\practis2.pdb
+C:\Users\hadis2005\source\repos\practis2\practis2\obj\Debug\practis2.csproj.AssemblyReference.cache
+C:\Users\hadis2005\source\repos\practis2\practis2\obj\Debug\practis2.csproj.CoreCompileInputs.cache
+C:\Users\hadis2005\source\repos\practis2\practis2\obj\Debug\practis2.exe
+C:\Users\hadis2005\source\repos\practis2\practis2\obj\Debug\practis2.pdb

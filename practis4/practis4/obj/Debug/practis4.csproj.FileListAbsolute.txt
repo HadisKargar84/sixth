@@ -1,0 +1,7 @@
+C:\Users\hadis2005\source\repos\practis4\practis4\bin\Debug\practis4.exe.config
+C:\Users\hadis2005\source\repos\practis4\practis4\bin\Debug\practis4.exe
+C:\Users\hadis2005\source\repos\practis4\practis4\bin\Debug\practis4.pdb
+C:\Users\hadis2005\source\repos\practis4\practis4\obj\Debug\practis4.csproj.AssemblyReference.cache
+C:\Users\hadis2005\source\repos\practis4\practis4\obj\Debug\practis4.csproj.CoreCompileInputs.cache
+C:\Users\hadis2005\source\repos\practis4\practis4\obj\Debug\practis4.exe
+C:\Users\hadis2005\source\repos\practis4\practis4\obj\Debug\practis4.pdb
